@@ -1,0 +1,56 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-image: url('https://thefatork.store/cdn/shop/articles/netflix.jpg?v=1669877376');
+  margin-top: 50px;
+  margin-right: 150px;
+  margin-left: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    }
+
+form{
+  background: rgba(0,0,0,0.8);
+  color: white;
+  max-width: 50%;
+  align-items: center;
+  min-height: 80vh;
+  margin-top:100px;
+  padding-top: 50 px;
+  padding-left: 50 px;
+
+}
+
+.form-group{
+  text-align: center;
+}
+.form-control{
+  background-color: rgb(51,51,51) !important;
+}
+.btn btn-danger{
+  background-color: rgb(229,9,20) !important;
+}
+
+.card{
+  background-color: rgba(0,0,0,0) !important;
+  margin:0 auto;
+  float:none;
+}
+
+.link{
+  float: right;
+  color: white ;
+}
+.signup{
+  float:left;
+}
+
+.logo{
+   width: 15%;
+  height:15%;
+  float:left;
+}
